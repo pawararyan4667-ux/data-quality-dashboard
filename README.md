@@ -60,18 +60,18 @@ This project demonstrates practical implementation of enterprise-style Data Qual
 
 ## Dashboard Screenshots
 
-![Dashboard](screenshots/ss1.png)
+![Dashboard](ss1.png)
 
-![Dashboard](screenshots/ss2.png)
+![Dashboard](ss2.png)
 
-![Dashboard](screenshots/ss3.png)
+![Dashboard](ss3.png)
 
-![Dashboard](screenshots/ss4.png)
+![Dashboard](ss4.png)
 
-![Dashboard](screenshots/ss5.png)
+![Dashboard](ss5.png)
 
-![Dashboard](screenshots/ss6.png)
+![Dashboard](sss6.png)
 
-![Dashboard](screenshots/ss7.png)
+![Dashboard](ss7.png)
 
-![Dashboard](screenshots/ss8.png)
+![Dashboard](ss8.png)
