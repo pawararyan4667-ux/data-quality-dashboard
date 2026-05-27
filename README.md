@@ -57,3 +57,21 @@ streamlit run app.py
 ## Project Outcome
 
 This project demonstrates practical implementation of enterprise-style Data Quality assessment and visualization techniques using Python-based analytics tooling.
+
+## Dashboard Screenshots
+
+![Dashboard](screenshots/ss1.png)
+
+![Dashboard](screenshots/ss2.png)
+
+![Dashboard](screenshots/ss3.png)
+
+![Dashboard](screenshots/ss4.png)
+
+![Dashboard](screenshots/ss5.png)
+
+![Dashboard](screenshots/ss6.png)
+
+![Dashboard](screenshots/ss7.png)
+
+![Dashboard](screenshots/ss8.png)
